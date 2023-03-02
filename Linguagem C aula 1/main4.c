@@ -7,7 +7,7 @@ int main()
     a = malloc(sizeof(int));
     
     printf("-> %p", a);
-    printf("n\-> %ld", sizeof(int));
+    printf("\n-> %ld", sizeof(int));
     free(a);
     return 0; 
 }
