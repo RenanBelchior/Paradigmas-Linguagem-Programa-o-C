@@ -1,3 +1,5 @@
+//Alocação de Memória = malloc
+
 #include <stdio.h>
 #include <stdlib.h>
 
